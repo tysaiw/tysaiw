@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello 你好，我是陳佩彣 (Aiko) 
 
-<!--
-**tysaiw/tysaiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+也可以叫我貝果。我過去的工作經驗主要是數位行銷，包含電商（例如 Yahoo 和 Line）以及 FMCG 產業。
 
-Here are some ideas to get you started:
+目前專注於學習全端開發技術，包括前端和後端，母語是 Ruby。
+期望將數位行銷背景與軟體開發相互結合，並不斷擴展我的技術知識！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 聯絡我
+
+如果您有任何問題、建議或合作機會，歡迎與我聯絡：
+
+- [tysaiw@gmail.com](mailto:tysaiw@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/%E4%BD%A9%E5%BD%A3-%E9%99%B3-4b420489/)
+
+Happy Coding!
