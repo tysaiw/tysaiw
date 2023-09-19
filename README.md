@@ -13,3 +13,7 @@
 - [LinkedIn](https://www.linkedin.com/in/%E4%BD%A9%E5%BD%A3-%E9%99%B3-4b420489/)
 
 Happy Coding!
+
+## Hello, I'm Aiko
+You can also call me Bagel. My past work experience primarily involves digital marketing, including e-commerce (such as Yahoo and Line) and the FMCG industry.
+Currently focused on learning full-stack development technologies, and my native language is Ruby. I aspire to combine my background in digital marketing with software development and continuously expand my technical knowledge!
